@@ -1,0 +1,21 @@
+.footer{
+  background-color: rgb(7, 28, 3);
+  height: 200px;
+  color: #359F6F;
+  text-align: center;
+}
+.footer li{
+  list-style: none;
+  display: inline-block;
+  padding-top: 50px;
+
+}
+
+.footer a{
+  color: #359F6F;
+  font-size: 36px;
+  padding-right: 8px;
+}
+.footer p{
+  font-size: 14px;
+}
